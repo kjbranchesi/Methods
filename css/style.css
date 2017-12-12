@@ -129,7 +129,7 @@ pre {
   position: relative;
   max-width: 100%;
   margin: 0 0 20px 0;
-  background-color: #f2f2f2;
+  background-color: #EEE8AA;
   padding: 20px 40px 20px 20px;
   font-family: monospace;
   white-space: pre-wrap;
@@ -168,7 +168,7 @@ table {
 }
 th,
 caption {
-  background-color: #f2f2f2;
+  background-color: #EEE8AA;
   color: #272727;
   text-transform: uppercase;
   font-weight: 600;
@@ -211,7 +211,7 @@ select {
   width: 100%;
   box-sizing: border-box;
   margin: 5px 0 10px;
-  border: 2px solid #f2f2f2;
+  border: 2px solid #EEE8AA;
   padding: 10px 15px;
   transition: border 0.15s ease;
   border-radius: 0;
@@ -271,11 +271,11 @@ textarea {
 /*   ELEMENTS           */
 /*----------------------*/
 ::-moz-selection {
-  background: #f2f2f2;
+  background: #EEE8AA;
   color: #272727;
 }
 ::selection {
-  background: #f2f2f2;
+  background: #EEE8AA;
   color: #272727;
 }
 .padding {
@@ -304,10 +304,10 @@ textarea {
   color: #ff1939;
 }
 .border-bottom {
-  border-bottom: 1px solid #f2f2f2;
+  border-bottom: 1px solid #EEE8AA;
 }
 .border-top {
-  border-top: 1px solid #f2f2f2;
+  border-top: 1px solid #EEE8AA;
 }
 .uppercase {
   text-transform: uppercase;
@@ -640,7 +640,7 @@ textarea {
   transform: translateX(-100%);
 }
 .image-slider-wrap .blind-01 {
-  background-color: #f2f2f2;
+  background-color: #EEE8AA;
   z-index: 40;
 }
 .image-slider-wrap .blind-02 {
@@ -665,7 +665,7 @@ textarea {
   opacity: 1;
   border-radius: 0px;
   box-shadow: 0 3px 6px rgba(39,39,39,0.2);
-  background-color: #f2f2f2;
+  background-color: #EEE8AA;
   text-indent: 9999px;
 }
 .image-slider-wrap .flex-control-nav li a.flex-active {
@@ -679,7 +679,7 @@ textarea {
   opacity: 1;
   border-radius: 0px;
   box-shadow: 0 3px 6px rgba(39,39,39,0.2);
-  background-color: #f2f2f2;
+  background-color: #EEE8AA;
 }
 .swiper-pagination-bullet-active {
   background-color: #555;
@@ -694,7 +694,7 @@ textarea {
   letter-spacing: 3px;
   text-align: center;
   color: #272727;
-  background-color: #f2f2f2;
+  background-color: #EEE8AA;
   margin-bottom: 30px;
 }
 .aligner {
@@ -843,7 +843,7 @@ textarea {
 }
 .pagination li a,
 .pagination li span {
-  background-color: #f2f2f2;
+  background-color: #EEE8AA;
   color: #555;
   text-align: center;
   display: block;
@@ -975,7 +975,7 @@ textarea {
   left: 0;
   right: 0;
   display: block;
-  background-color: #f2f2f2;
+  background-color: #EEE8AA;
   z-index: 888;
   transition: all 0.6s 0.2s ease;
 }
@@ -1469,7 +1469,7 @@ body .frame-line.left-frame {
   overflow: hidden;
   position: relative;
   display: block;
-  background-color: #f2f2f2;
+  background-color: #EEE8AA;
 }
 .portfolio-content-wrap,
 .portfolio-title,
@@ -1566,7 +1566,7 @@ body .frame-line.left-frame {
 .single-project {
   padding-top: 150px;
   padding-bottom: 70px;
-  border-bottom: 1px solid #f2f2f2;
+  border-bottom: 1px solid #EEE8AA;
 }
 .single-project a:hover {
   color: #ff1939;
@@ -1588,13 +1588,13 @@ body .frame-line.left-frame {
 .gallery-image-wrap a {
   position: relative;
   overflow: hidden !important;
-  background-color: #f2f2f2;
+  background-color: #EEE8AA;
 }
 .gallery-image-wrap img {
   vertical-align: bottom;
 }
 .blog-modern .post {
-  border-bottom: 1px solid #f2f2f2;
+  border-bottom: 1px solid #EEE8AA;
 }
 .blog-modern .post-thumb {
   overflow: hidden;
@@ -1635,7 +1635,7 @@ body .frame-line.left-frame {
   padding-right: 4px;
 }
 .blog-minimal .post {
-  border-bottom: 1px solid #f2f2f2;
+  border-bottom: 1px solid #EEE8AA;
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -1725,7 +1725,7 @@ body .frame-line.left-frame {
 }
 .blog-default .post-thumb {
   position: relative;
-  background-color: #f2f2f2;
+  background-color: #EEE8AA;
 }
 .blog-default .post-content {
   background-color: #fcfcfc;
@@ -1976,7 +1976,7 @@ body .frame-line.left-frame {
 }
 .widget-title::before {
   content: '';
-  background-color: #f2f2f2;
+  background-color: #EEE8AA;
   display: block;
   height: 1px;
   position: absolute;
@@ -2010,7 +2010,7 @@ body .frame-line.left-frame {
   width: 52px;
   line-height: 52px;
   text-align: center;
-  color: #f2f2f2;
+  color: #EEE8AA;
   display: inline-block;
   transition: all 0.4s ease;
 }
@@ -2193,7 +2193,7 @@ body .frame-line.left-frame {
   position: relative;
   height: 3px;
   width: 100%;
-  background-color: #f2f2f2;
+  background-color: #EEE8AA;
   margin-top: 14px;
 }
 .progress-outer .progress-inner {
@@ -2456,7 +2456,7 @@ body .frame-line.left-frame {
 .pricing-table {
   padding: 30px;
   text-align: center;
-  border: 2px solid #f2f2f2;
+  border: 2px solid #EEE8AA;
   transition: border 0.15s ease;
 }
 .price-header,
@@ -2505,7 +2505,7 @@ body .frame-line.left-frame {
 }
 .price-body ul li {
   line-height: 45px;
-  border-bottom: 1px solid #f2f2f2;
+  border-bottom: 1px solid #EEE8AA;
 }
 .price-body ul li:last-child {
   border: none;
@@ -2527,7 +2527,7 @@ body .frame-line.left-frame {
   overflow: hidden;
 }
 .testimonial-content {
-  color: #f2f2f2;
+  color: #EEE8AA;
   margin: 0;
   padding: 0;
 }
